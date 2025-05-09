@@ -1,0 +1,14 @@
+flutter_native_splash:
+
+  color: "#1D8D9C"
+  image: assets/docnyleM.png
+
+  android_12:
+    color: "#1D8D9C"
+    image: assets/docnylemain.jpg
+    icon_background_color: "#1D8D9C"
+
+
+  android: true
+  ios: true
+  web: false
